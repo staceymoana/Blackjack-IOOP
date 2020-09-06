@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6D0B7784-5D16-4D20-B48F-DA8269C340B0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Blackjack</RootNamespace>
+    <AssemblyName>Blackjack</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Blackjack.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Blackjack.Designer.cs">
+      <DependentUpon>Blackjack.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Card.cs" />
+    <Compile Include="Deck.cs" />
+    <Compile Include="Player.cs" />
+    <Compile Include="Start.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Start.Designer.cs">
+      <DependentUpon>Start.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Highscores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Highscores.Designer.cs">
+      <DependentUpon>Highscores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Blackjack.resx">
+      <DependentUpon>Blackjack.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Start.resx">
+      <DependentUpon>Start.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Highscores.resx">
+      <DependentUpon>Highscores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\14.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\15.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\17.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\19.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\23.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\26.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\27.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\28.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\33.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\34.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\35.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\36.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\37.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\38.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\39.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\41.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\42.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\43.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\44.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\45.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\46.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\47.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\49.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\51.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\52.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Deck\Back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BLACKJACK.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="highscores.txt" />
+    <None Include="Resources\SpaceBackground1.png" />
+    <None Include="Resources\background.bmp" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

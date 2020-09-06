@@ -1,0 +1,48 @@
+C:\Users\staaa\OneDrive\Desktop\BCS\SEM2\oop\VS\Blackjack\Blackjack\bin\Debug\Blackjack.exe.config
+C:\Users\staaa\OneDrive\Desktop\BCS\SEM2\oop\VS\Blackjack\Blackjack\bin\Debug\Blackjack.exe
+C:\Users\staaa\OneDrive\Desktop\BCS\SEM2\oop\VS\Blackjack\Blackjack\bin\Debug\Blackjack.pdb
+C:\Users\staaa\OneDrive\Desktop\BCS\SEM2\oop\VS\Blackjack\Blackjack\obj\Debug\Blackjack.csprojAssemblyReference.cache
+C:\Users\staaa\OneDrive\Desktop\BCS\SEM2\oop\VS\Blackjack\Blackjack\obj\Debug\Blackjack.Properties.Resources.resources
+C:\Users\staaa\OneDrive\Desktop\BCS\SEM2\oop\VS\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.GenerateResource.cache
+C:\Users\staaa\OneDrive\Desktop\BCS\SEM2\oop\VS\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\staaa\OneDrive\Desktop\BCS\SEM2\oop\VS\Blackjack\Blackjack\obj\Debug\Blackjack.exe
+C:\Users\staaa\OneDrive\Desktop\BCS\SEM2\oop\VS\Blackjack\Blackjack\obj\Debug\Blackjack.pdb
+C:\Users\staaa\OneDrive\Desktop\BCS\SEM2\oop\VS\Blackjack\Blackjack\obj\Debug\Blackjack.Highscores.resources
+C:\Users\staaa\OneDrive\Desktop\BCS\SEM2\oop\VS\Blackjack\Blackjack\obj\Debug\Blackjack.Start.resources
+C:\Users\staaa\OneDrive\Desktop\BCS\SEM2\oop\VS\Blackjack\Blackjack\obj\Debug\Blackjack.Blackjack.resources
+C:\Users\staaa\OneDrive\Desktop\BCS\SEM2\oop\VS\Blackjack - Copy\Blackjack\bin\Debug\Blackjack.exe.config
+C:\Users\staaa\OneDrive\Desktop\BCS\SEM2\oop\VS\Blackjack - Copy\Blackjack\bin\Debug\Blackjack.exe
+C:\Users\staaa\OneDrive\Desktop\BCS\SEM2\oop\VS\Blackjack - Copy\Blackjack\bin\Debug\Blackjack.pdb
+C:\Users\staaa\OneDrive\Desktop\BCS\SEM2\oop\VS\Blackjack - Copy\Blackjack\obj\Debug\Blackjack.csprojAssemblyReference.cache
+C:\Users\staaa\OneDrive\Desktop\BCS\SEM2\oop\VS\Blackjack - Copy\Blackjack\obj\Debug\Blackjack.Blackjack.resources
+C:\Users\staaa\OneDrive\Desktop\BCS\SEM2\oop\VS\Blackjack - Copy\Blackjack\obj\Debug\Blackjack.Start.resources
+C:\Users\staaa\OneDrive\Desktop\BCS\SEM2\oop\VS\Blackjack - Copy\Blackjack\obj\Debug\Blackjack.Highscores.resources
+C:\Users\staaa\OneDrive\Desktop\BCS\SEM2\oop\VS\Blackjack - Copy\Blackjack\obj\Debug\Blackjack.Properties.Resources.resources
+C:\Users\staaa\OneDrive\Desktop\BCS\SEM2\oop\VS\Blackjack - Copy\Blackjack\obj\Debug\Blackjack.csproj.GenerateResource.cache
+C:\Users\staaa\OneDrive\Desktop\BCS\SEM2\oop\VS\Blackjack - Copy\Blackjack\obj\Debug\Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\staaa\OneDrive\Desktop\BCS\SEM2\oop\VS\Blackjack - Copy\Blackjack\obj\Debug\Blackjack.exe
+C:\Users\staaa\OneDrive\Desktop\BCS\SEM2\oop\VS\Blackjack - Copy\Blackjack\obj\Debug\Blackjack.pdb
+C:\Users\staaa\OneDrive\Desktop\BCS\SEM2\oop\Stacey Moana - Game\Blackjack\Blackjack\bin\Debug\Blackjack.exe.config
+C:\Users\staaa\OneDrive\Desktop\BCS\SEM2\oop\Stacey Moana - Game\Blackjack\Blackjack\bin\Debug\Blackjack.exe
+C:\Users\staaa\OneDrive\Desktop\BCS\SEM2\oop\Stacey Moana - Game\Blackjack\Blackjack\bin\Debug\Blackjack.pdb
+C:\Users\staaa\OneDrive\Desktop\BCS\SEM2\oop\Stacey Moana - Game\Blackjack\Blackjack\obj\Debug\Blackjack.csprojAssemblyReference.cache
+C:\Users\staaa\OneDrive\Desktop\BCS\SEM2\oop\Stacey Moana - Game\Blackjack\Blackjack\obj\Debug\Blackjack.Blackjack.resources
+C:\Users\staaa\OneDrive\Desktop\BCS\SEM2\oop\Stacey Moana - Game\Blackjack\Blackjack\obj\Debug\Blackjack.Start.resources
+C:\Users\staaa\OneDrive\Desktop\BCS\SEM2\oop\Stacey Moana - Game\Blackjack\Blackjack\obj\Debug\Blackjack.Highscores.resources
+C:\Users\staaa\OneDrive\Desktop\BCS\SEM2\oop\Stacey Moana - Game\Blackjack\Blackjack\obj\Debug\Blackjack.Properties.Resources.resources
+C:\Users\staaa\OneDrive\Desktop\BCS\SEM2\oop\Stacey Moana - Game\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.GenerateResource.cache
+C:\Users\staaa\OneDrive\Desktop\BCS\SEM2\oop\Stacey Moana - Game\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\staaa\OneDrive\Desktop\BCS\SEM2\oop\Stacey Moana - Game\Blackjack\Blackjack\obj\Debug\Blackjack.exe
+C:\Users\staaa\OneDrive\Desktop\BCS\SEM2\oop\Stacey Moana - Game\Blackjack\Blackjack\obj\Debug\Blackjack.pdb
+C:\Users\staaa\OneDrive\Documents\BCS\Year 1\SEM2\oop\Stacey Moana - Game\Blackjack\Blackjack\bin\Debug\Blackjack.exe.config
+C:\Users\staaa\OneDrive\Documents\BCS\Year 1\SEM2\oop\Stacey Moana - Game\Blackjack\Blackjack\bin\Debug\Blackjack.exe
+C:\Users\staaa\OneDrive\Documents\BCS\Year 1\SEM2\oop\Stacey Moana - Game\Blackjack\Blackjack\bin\Debug\Blackjack.pdb
+C:\Users\staaa\OneDrive\Documents\BCS\Year 1\SEM2\oop\Stacey Moana - Game\Blackjack\Blackjack\obj\Debug\Blackjack.csprojAssemblyReference.cache
+C:\Users\staaa\OneDrive\Documents\BCS\Year 1\SEM2\oop\Stacey Moana - Game\Blackjack\Blackjack\obj\Debug\Blackjack.Blackjack.resources
+C:\Users\staaa\OneDrive\Documents\BCS\Year 1\SEM2\oop\Stacey Moana - Game\Blackjack\Blackjack\obj\Debug\Blackjack.Start.resources
+C:\Users\staaa\OneDrive\Documents\BCS\Year 1\SEM2\oop\Stacey Moana - Game\Blackjack\Blackjack\obj\Debug\Blackjack.Highscores.resources
+C:\Users\staaa\OneDrive\Documents\BCS\Year 1\SEM2\oop\Stacey Moana - Game\Blackjack\Blackjack\obj\Debug\Blackjack.Properties.Resources.resources
+C:\Users\staaa\OneDrive\Documents\BCS\Year 1\SEM2\oop\Stacey Moana - Game\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.GenerateResource.cache
+C:\Users\staaa\OneDrive\Documents\BCS\Year 1\SEM2\oop\Stacey Moana - Game\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\staaa\OneDrive\Documents\BCS\Year 1\SEM2\oop\Stacey Moana - Game\Blackjack\Blackjack\obj\Debug\Blackjack.exe
+C:\Users\staaa\OneDrive\Documents\BCS\Year 1\SEM2\oop\Stacey Moana - Game\Blackjack\Blackjack\obj\Debug\Blackjack.pdb
