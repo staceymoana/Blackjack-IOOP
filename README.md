@@ -1,7 +1,7 @@
 # Blackjack-IOOP
 Intro to Object Oriented Programming | Blackjack | Assignment 2
 
-![Image of Blackjack GUI](https://github.com/staceysike/Blackjack-IOOP/blob/master/ioopGUI.png)
+![Image of Blackjack GUI](https://github.com/staceysike/images/blob/master/ioopGUI.png)
 
 The purpose of this assignment was to design a GUI card game application of my choice. 
 I chose to implement a simple version of Blackjack, where the player vs. 'the computer'.
