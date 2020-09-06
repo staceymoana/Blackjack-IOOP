@@ -12,6 +12,7 @@ The game must provide functionality including:
 * automatically keeps track of scores, to produce a top 10 high score list. 
 
 Game Rules:
+
 The game starts with the player and the computer both recieving one card each.
 The game will randomly decide who's turn is first. Turns are represented by a border around the respective cards.
 
